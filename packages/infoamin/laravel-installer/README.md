@@ -81,8 +81,5 @@ protected function userAddValues(User $user)
 ```
 The user model is provided as method parameter so you can easily set a query.
 
-## Todo list
-
-  - Screenshots
 
 
